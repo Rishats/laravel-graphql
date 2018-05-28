@@ -23,7 +23,7 @@ Fourth Tab:
 $ php artisan migrate
 ```
 
-# How start it?
+# How to start it?
 Just run Laravel server.
 ```sh
 $ php artisan serve
